@@ -171,7 +171,7 @@ def xxr():
     print(" ══════════════════════════════════════════")
     rk1 = '92345'
     rk2 = '92348'
-    rk3 = '92315
+    rk3 = '92315'
     code = random.choice([rk1,rk2,rk3])                      # input(f' [{xr}■{x}] Choose : ')
     os.system("xdg-open https://www.facebook.com/turag.ahmed.18")
     os.system('clear')
